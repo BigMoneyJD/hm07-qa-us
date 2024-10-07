@@ -1,5 +1,4 @@
 // eslint-disable-next-line no-undef
-const fetch = require('node-fetch');
 const config = require('../config');
 
 test('DELETE request response body should be { "ok": true }', async () => {
